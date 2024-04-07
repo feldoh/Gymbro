@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Defs>
   <XenotypeDef>
-    <defName>MSS_Gymbro_Science Bro</defName>
+    <defName>MSS_Gymbro_Science_Bro</defName>
     <label>Science Bro</label>
     <description>Science Bros specialise in macronutient knowledge, ratios of supplements, and cold hard data to back up their quest for pump.</description>
     <descriptionShort>Science bros excel in the cold hard science behind strength.</descriptionShort>
@@ -24,7 +24,7 @@
   </XenotypeDef>
 
   <XenotypeDef>
-    <defName>MSS_Gymbro_Anabolic Bro</defName>
+    <defName>MSS_Gymbro_Anabolic_Bro</defName>
     <label>Anabolic Bro</label>
     <description>Anabolic Bros are enormous hulking monsters of pure power, unrivaled strength, and glorious gains. What they lose in mental prowess they more than make up for in looking massive.</description>
     <descriptionShort>Anabolic Bros are enormous hulking monsters of unrivaled power.</descriptionShort>
@@ -82,7 +82,7 @@
   </XenotypeDef>
 
   <XenotypeDef>
-    <defName>MSS_Gymbro_Aesthetic Bro</defName>
+    <defName>MSS_Gymbro_Aesthetic_Bro</defName>
     <label>Aesthetic Bro</label>
     <description>Aesthetic Bros are on an enternal quest to unconver their ultimate form and beauty by carefully sculpting their body to maximise aesthetic output.</description>
     <descriptionShort>Aesthetic bros are beautiful, powerful, and socially competent humans.</descriptionShort>
