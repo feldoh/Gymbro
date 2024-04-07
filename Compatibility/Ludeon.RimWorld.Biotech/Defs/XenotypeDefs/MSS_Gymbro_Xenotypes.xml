@@ -19,6 +19,7 @@
       <li>AptitudeTerrible_Social</li>
       <li>AptitudeRemarkable_Intellectual</li>
       <li>AddictionResistant_GoJuice</li>
+      <li>MSS_Gymbro_Gene_Bulker</li>
       <li MayRequire="void.charactereditor">SZBodySize_08</li>
     </genes>
   </XenotypeDef>
@@ -45,6 +46,7 @@
       <li>AptitudeStrong_Melee</li>
       <li>AptitudeStrong_Cooking</li>
       <li>ChemicalDependency_GoJuice</li>
+      <li>MSS_Gymbro_Gene_Bulker</li>
       <li MayRequire="void.charactereditor">SZBodySize_15</li>
     </genes>
   </XenotypeDef>
@@ -77,6 +79,7 @@
       <li>Unstoppable</li>
       <li>AptitudeRemarkable_Cooking</li>
       <li>AptitudeTerrible_Animals</li>
+      <li>MSS_Gymbro_Gene_Bulker</li>
       <li MayRequire="RedMattis.BetterPrerequisites">BS_FA_NoHead</li>
     </genes>
   </XenotypeDef>
@@ -99,6 +102,7 @@
       <li>AptitudeStrong_Cooking</li>
       <li>AptitudeRemarkable_Social</li>
       <li>AddictionResistant_GoJuice</li>
+      <li>MSS_Gymbro_Gene_Bulker</li>
       <li MayRequire="void.charactereditor">SZBodySize_12</li>
     </genes>
   </XenotypeDef>
