@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<RawCoomHigh.label>testojuice high</RawCoomHigh.label>
+	<RawCoomHigh.labelNoun>Poisoned by testojuice</RawCoomHigh.labelNoun>
+	<RawCoomHigh.description>This person has ingested testojuice. They must have been really, really desperate.</RawCoomHigh.description>
+	<CoomHigh.label>juiced up</CoomHigh.label>
+	<CoomHigh.labelNoun>High on the juice</CoomHigh.labelNoun>
+	<CoomHigh.description>This person has injected testosterone. The siren call of The Juice was just too strong.</CoomHigh.description>
+	<coomAddiction.label>testosterone addiction</coomAddiction.label>
+	<coomAddiction.description>This person is coming down from a cycle on the juice and is regretting their life choices.</coomAddiction.description>
+</LanguageData>
