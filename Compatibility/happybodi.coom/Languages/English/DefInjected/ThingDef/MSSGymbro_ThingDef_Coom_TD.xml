@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!-- Patches to ThingDef_coom -->
+	<RawCoom.label>Testojuice</RawCoom.label>
+	<RawCoom.description>Milky "juice" harvested from a testolope. Absolutely disgusting, but still provides some of the effects of testosterone.</RawCoom.description>
+	<Coom.label>testosterone</Coom.label>
+	<Coom.description>Refined testosterone. When injected it gets you JUICED UP.</Coom.description>
+	<Coom.ingestible.ingestCommandString>Inject {0}</Coom.ingestible.ingestCommandString>
+	<Coom.ingestible.ingestReportString>Injecting {0}</Coom.ingestible.ingestReportString>
+<!-- End of patches to ThingDef_coom -->
+<!-- Patches to Races_Animals_Coomers -->
+	<Coomalope.label>Testolope</Coomalope.label>
+	<Coomalope.description>A sign of the depraved extent of GymBro science, the Testolope grows hairy sacks on its back which can be "milked" for testofluid.</Coomalope.description>
+<!-- End of patches to Races_Animals_Coomers -->
+</LanguageData>
