@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Coomalope.label>testolope</Coomalope.label>
+	<Coomalope.lifeStages.0.label>testolope calf</Coomalope.lifeStages.0.label>
+	<Coomalope.lifeStages.0.labelPlural>testolope calves</Coomalope.lifeStages.0.labelPlural>
+	<Coomalope.lifeStages.1.label>testolope</Coomalope.lifeStages.1.label>
+	<Coomalope.lifeStages.1.labelPlural>testolopes</Coomalope.lifeStages.1.labelPlural>
+	<Coomalope.lifeStages.2.label>testolope</Coomalope.lifeStages.2.label>
+	<Coomalope.lifeStages.2.labelPlural>testolopes</Coomalope.lifeStages.2.labelPlural>
+</LanguageData>
+	
