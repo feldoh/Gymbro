@@ -11,10 +11,10 @@
         <displayCategory>Cosmetic</displayCategory>
         <displayOrderInCategory>71</displayOrderInCategory>
         <geneClass>Gymbro.Gene_Bulker</geneClass>
-        <PassionMod>
+        <passionMod>
             <skill>Melee</skill>
             <modType>AddOneLevel</modType>
-        </PassionMod>
+        </passionMod>
         <minAgeActive>7</minAgeActive>
         <modExtensions>
             <li Class="Gymbro.CurveDefModExtension">
